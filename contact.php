@@ -1,1 +1,7 @@
-<?php wdfk,mlglk,hmlsk,ml ?>
+<?php
+
+echo 'page contact';
+
+echo 'rhijfkmldfsgkdkfhfjmlxdf';
+
+ ?>
